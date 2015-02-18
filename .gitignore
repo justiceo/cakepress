@@ -25,3 +25,11 @@
 Icon?
 ehthumbs.db
 Thumbs.db
+
+#OS specific files (windows) #
+################
+app/Config/core.php
+/.htaccess
+/app/.htaccess
+/app/webroot/.htaccess
+
